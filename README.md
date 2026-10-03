@@ -1,12 +1,12 @@
 # Project Title (Update)
 
-Add a description of your project here.
+This is a repository with all the projects I create to learn the basics of the Rust programming language.
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
+1. For all projects other that "hello_world" run `cargo build` to build the code (or you can just find and run the executable in the `target` folder)
 2.
 3.
 
@@ -20,7 +20,7 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
+* Rust
 *
 *
 

@@ -26,14 +26,14 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|9/21/2026 |10:15am   |IM/TP   |Planned Sprint                              |60   |
+|9/21/2026 |10:15am   |IM/TP/TM|Planned Sprint                              |60   |
 |9/23/2026 |10:40am   |TP      |setup github project/repo                   |35   |
 |9/29/2026 |9:55pm    |IM      |Research Rust                               |80   |
-|9/30/2026 |9:20am    |TP      |Team presentation                           |55   |
+|9/30/2026 |9:20am    |TP/TM   |Team presentation                           |55   |
 |9/30/2026 |1:05pm    |TP      |IDE research                                |30   |
-|          |          |        |                                            |             |
-
-_Note: Add more rows as needed._
+|9/30/2026 |2:15pm    |IM      |Practicing Rust                             |115  |
+|10/02/2026|10:15am   |TM      |Individual presentation                     |60   |
+|10/03/2026|10:15am   |IM      |
 
 ## Sprint Totals
 
