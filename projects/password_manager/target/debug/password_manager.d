@@ -1,0 +1,1 @@
+C:\Users\herot\Documents\Code\CSE310\Learning_Rust\projects\password_manager\target\debug\password_manager.exe: C:\Users\herot\Documents\Code\CSE310\Learning_Rust\projects\password_manager\src\main.rs
